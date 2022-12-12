@@ -8,4 +8,4 @@ To use my thematic settings, you must have the "minimal" theme installed in obsi
 Once both plugins are activated (navigate to the "community plugins" tab in the settings), go to the "style settings" tab under "community plugins."
 
 
-Click "Import" in the top-right corner of the box, and select the file you downloaded from this page. Restart obsidian if needed.
+Click "Import" in the top-right corner of the box, and select the file downloaded from this page. Restart obsidian if needed.
